@@ -48,3 +48,61 @@ The EarthSDB project is more than just a database—it’s a community of plant 
 Whether you’re here to learn how to care for your houseplants, identify wildflowers, or explore the medicinal properties of herbs, EarthSDB is your one-stop destination for all things green and growing. Together, we can cultivate a deeper connection to nature and build a more sustainable future for our planet.
 
 **Explore, learn, and grow with EarthSDB—because plant knowledge should be for everyone.**
+
+
+Citation Policy for EarthsDB.com and C. de Jong’s Works
+
+Here is a customized citation policy for works from *earthsdb.com* and those by *C. de Jong* under the CC BY-NC-ND license:
+
+---
+
+### Citation Policy for EarthsDB.com and C. de Jong’s Works (CC BY-NC-ND):
+
+To use and cite any works from *earthsdb.com* and by *C. de Jong* licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives (CC BY-NC-ND) license, please adhere to the following guidelines:
+
+#### 1. **Attribution**:
+   - All works used from *earthsdb.com* and by *C. de Jong* must include clear attribution.
+   - The citation must include:
+     - The name *C. de Jong* as the original creator.
+     - The title of the work (if applicable).
+     - A link to *earthsdb.com* where the work is hosted or accessed.
+     - A statement indicating that the work is licensed under a CC BY-NC-ND license.
+
+#### 2. **Non-Commercial Use**:
+   - The work may only be used for non-commercial purposes. Using the work for commercial gain (e.g., in paid products or services, or in contexts that generate revenue) is prohibited.
+   - Any use must maintain the spirit of non-commercial distribution, even when shared for educational or informational purposes.
+
+#### 3. **No Derivatives**:
+   - Modifications, adaptations, or transformations of the original work are not allowed. This includes, but is not limited to, editing the content, creating translations, or incorporating the work into derivative creations.
+   - The work must remain in its original form, as provided by *earthsdb.com* or *C. de Jong*.
+
+#### 4. **Clear and Visible Citation**:
+   - Citations must be clearly and prominently displayed wherever the work is used, ensuring proper credit to *C. de Jong*.
+   - The citation should appear directly alongside the work, whether it is used in an online platform, presentation, printed material, or visual media.
+   - Ensure that the attribution is legible, unambiguous, and visible to the audience.
+
+#### 5. **License Information**:
+   - A hyperlink to the full CC BY-NC-ND license (https://creativecommons.org/licenses/by-nc-nd/4.0/) must accompany the attribution to clarify the specific conditions under which the work is available for use.
+
+### Example Citation for C. de Jong’s Work:
+
+If using a work titled *"Global Geology Dataset"* by C. de Jong:
+
+   *"Global Geology Dataset" by C. de Jong, available on EarthsDB.com, is licensed under CC BY-NC-ND 4.0. [Link to work](https://earthsdb.com/global-geology-dataset).*
+
+#### 6. **Compliance**:
+   - Users who fail to comply with the CC BY-NC-ND license or this policy may have their access to *earthsdb.com* restricted and may be held accountable for any misuse.
+
+---
+
+This policy ensures that all works are used respectfully and in accordance with the licensing terms set by *earthsdb.com* and *C. de Jong*.
+
+
+
+
+
+
+
+
+
+
